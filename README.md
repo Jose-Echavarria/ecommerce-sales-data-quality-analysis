@@ -7,19 +7,19 @@ This project analyzes an online retail dataset using SQL Server and Power BI. Th
 ## Dashboard PDF
 
 ### Executive Summary
-![Executive Summary](executive-summary.png)
+![Executive Summary](Executive%20Summary.png)
 
 ### Country Sales Analysis
-![Country Sales Analysis](country-sales-analysis.png)
+![Country Sales Analysis](Country%20Sales%20Analysis.png)
 
 ### Customer Analysis
-![Customer Analysis](customer-analysis.png)
+![Customer Analysis](Customer.png)
 
 ### Product Analysis
-![Product Analysis](product-analysis.png)
+![Product Analysis](Product%20Analysis.png)
 
 ### Data Quality
-![Data Quality](data-quality.png)
+![Data Quality](Data%20Quality.png)
 
 ## Tools Used
 
