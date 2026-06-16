@@ -4,6 +4,10 @@
 
 This project analyzes an online retail dataset using SQL Server and Power BI. The goal was to clean raw transaction data, create reporting-ready SQL views, and build a Power BI dashboard that highlights revenue trends, customer behavior, product performance, country-level sales, key performance indicators, and data quality issues.
 
+## Dashboard PDF
+
+[View Dashboard PDF](./E-Commerce%20Sales%20Dashboard.pdf)
+
 ## Tools Used
 
 * SQL Server
